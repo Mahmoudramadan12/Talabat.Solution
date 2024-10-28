@@ -1,0 +1,1 @@
+a full-featured e-commerce API using ASP.NET Core with account, product, basket, order, and secure payment management. Leveraged SQL Server, Entity Framework Core, JWT, and ASP.NET Identity for secure, scalable transactions, with design patterns like Repository and Unit of Work to ensure maintainability.
